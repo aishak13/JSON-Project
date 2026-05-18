@@ -1,7 +1,7 @@
 # JSON-Project
 
 # Demo 
-[Download and View the Demo](./JSON-Project/JSON%20(1).mp4)
+[Download and View the Demo](./JSON%20(1).mp4)
 
 # Project Structure
 
